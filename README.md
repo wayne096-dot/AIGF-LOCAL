@@ -23,10 +23,11 @@
 ## 安裝與運行
 
 ### 1. 環境需求
-- Python 3.10+
+- Python 3.10+(建議3.13)
 - 安裝必要庫:
   ```bash
-  pip install llama-cpp-python numpy sounddevice onnxruntime pykakasi
+  pip install llama-cpp-python numpy sounddevice onnxruntime pykakasi live2d-py
+  ```
 
 ## 依賴套件版權聲明 (Dependency Licenses)
 
@@ -45,6 +46,3 @@
 * **Tamamo Cross TTS 模型**: 基於 VITS 架構，通常屬於開源訓練權重，請遵循原訓練者的授權說明。
 * **Live2D 模型**: 本專案僅提供程式架構。**若您使用特定角色模型，請務必確認該模型檔案的著作權授權** (例如是否禁止商用、是否需署名等)。本專案作者不對用戶自行使用的模型版權負責。
 
-
-
-不加記憶功能。裡面包含live2dtk模組，
