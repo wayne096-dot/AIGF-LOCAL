@@ -8,9 +8,9 @@
 
 ## 主要功能
 
--   **完全本地化**: 無需連網，不調用外部 API，隱私安全無憂。
--   **日語語音輸出**: 系統接收中文輸入，透過本地 LLM 生成俏皮的日文回答，並以日語 TTS 播放。
--   **實時互動**: 搭配 Live2D 模型，嘴型根據語音能量實時同步。
+* **完全本地化**: 無需連網，不調用外部 API，隱私安全無憂。
+* **日語語音輸出**: 系統接收中日文雙語輸入，透過本地 LLM 生成日文回答，並以日語 TTS 播放。
+* **實時互動**: 搭配 Live2D 模型，嘴型根據語音能量實時同步。
 
 ## 技術棧 (Tech Stack)
 
@@ -36,7 +36,7 @@
 * **numpy**: [BSD 3-Clause License](https://github.com/numpy/numpy/blob/main/LICENSE.txt)
 * **sounddevice**: [MIT License](https://github.com/spatialaudio/python-sounddevice/blob/master/LICENSE)
 * **pykakasi**: [MIT License](https://github.com/miurahr/pykakasi/blob/master/LICENSE)
-* **Live2dTK**: [MIT License/GPL］
+* **Live2dTK**: [MIT License/GPL](https://github.com/miurahr/pykakasi/blob/master/LICENSE)
 
 
 
