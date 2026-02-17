@@ -37,6 +37,7 @@
 * **numpy**: [BSD 3-Clause License](https://github.com/numpy/numpy/blob/main/LICENSE.txt)
 * **sounddevice**: [MIT License](https://github.com/spatialaudio/python-sounddevice/blob/master/LICENSE)
 * **pykakasi**: [MIT License](https://github.com/miurahr/pykakasi/blob/master/LICENSE)
+*  **Live2dTK**: [MIT License/GPL]
 
 
 
